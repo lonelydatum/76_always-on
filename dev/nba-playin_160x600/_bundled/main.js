@@ -94,9 +94,6 @@ function slider() {
 	return tl;
 }
 
-console.log(READ_T2[universalBanner.name]);
-console.log(READ_T2);
-
 function standard() {
 	var tl = init();
 	tl.add(slider(), "+=.5");

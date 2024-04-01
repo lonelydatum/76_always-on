@@ -89,8 +89,7 @@ function slider(read=2){
 	return tl
 }
 
-console.log(READ_T2[universalBanner.name]);
-console.log(READ_T2);
+
 
 function standard(){	
 	const tl = init()	
