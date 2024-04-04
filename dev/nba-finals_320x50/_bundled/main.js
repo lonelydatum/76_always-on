@@ -20,7 +20,7 @@ var READ_T1 = {};
 var READ_T2 = {};
 var READ_T3 = {};
 
-READ_T1["nba-finals"] = 2.2;
+READ_T1["nba-finals"] = 1.2;
 READ_T2["nba-finals"] = 1.8;
 READ_T3["nba-finals"] = 2;
 
